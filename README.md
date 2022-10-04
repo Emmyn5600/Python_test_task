@@ -9,6 +9,10 @@ These instructions will get you a copy of the project up and start working on it
 # Clone the repo
 `git clone https://github.com/Inclet/Python_test_task.git`
 
+# How to run the project
+
+- type `./generate_folder_structure.sh` if you get an issue with the permission type `chmod +x ./generate_folder_structure.sh`
+
 # Task
 
 - Write a python script inside `main.py` which is at the root of the folder that can be runned and generate the exact folder structure as it is in `output` folder.
